@@ -1,3 +1,4 @@
+Use node version v16.
 To Run Backend:
 
 cd backend
